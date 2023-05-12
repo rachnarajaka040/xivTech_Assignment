@@ -1,0 +1,67 @@
+body
+{
+    font-family: serif;
+}
+
+.letsTalk{
+    height: 127px;
+    width: 100%;
+    padding: 46px 273px;
+    /* border: 1px solid red; */
+}
+.letsTalkChild{
+    height: 28px;
+    width: 972px;
+    /* border: 1px solid red; */
+
+}
+.letsTalkChild2{
+     font-size: 24px;
+    line-height: 28px;
+    font-weight: 700;
+}
+.childMainDiv{
+    margin:auto;
+    margin-top: 50px;
+}
+.leftdiv{
+    height: 446px;
+    width: 501px;
+    /* border: 2px solid red; */
+}
+.rightdiv{
+    height: 446px;
+    width: 501px;
+    /* border: 2px solid red; */
+}
+.h5Parent{
+    height: auto;
+}
+.h5{
+    height: 153px;
+    width: 340px;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 76px;
+    transform: scaleY(1.05);
+    
+}
+.h5pParent{
+    margin-top:30px;
+}
+.h5p{
+    height: 238px;
+    width: 350px;
+    font-size: 28px;
+    line-height: 33px;
+    width: 100;
+    font-weight: 400;
+}
+.rightdivchild{
+    height: 90%;
+    width: 95%;
+}
+.rightimg{
+    height:100%;
+    width:100%;
+}
