@@ -17,7 +17,7 @@ function Collaborate(props) {
                                 <h2 className=" h5 card-title">{props.name}</h2>
                             </div>
                             <div className='h5pParent'>
-                               <h3 className=" h5p card-text">{props.des}</h3>
+                               <h3 className=" h5p card-text">{props.description}</h3>
                             </div>
 
                         </div>
