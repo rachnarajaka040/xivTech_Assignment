@@ -9,9 +9,9 @@ function Collaborate(props) {
 
             <div className="maindiv card " >
 
-                <div className=" childMainDiv row g-0">
+                <div className=" childMainDiv row ">
                     
-                    <div className="leftdiv col-md-8">
+                    <div className="leftdiv ">
                         <div className="card-body">
                             <div className='h5Parent'>
                                 <h2 className=" h5 card-title">{props.name}</h2>
@@ -22,9 +22,9 @@ function Collaborate(props) {
 
                         </div>
                     </div>
-                    <div className=" rightdiv col-md-4" >
+                    <div className="rightdiv">
                         <div className='rightdivchild'>
-                           <img  src={props.src} className="rightimg img-fluid " alt="..." />
+                           <img src={props.src} className="rightimg img-fluid " alt="..." />
                         </div>
                     </div>
 
@@ -37,3 +37,7 @@ function Collaborate(props) {
 }
 
 export default Collaborate
+
+
+
+

@@ -1,19 +1,18 @@
-body
+ body
 {
     font-family: serif;
 }
 
-.letsTalk{
+ .letsTalk{
     height: 127px;
     width: 100%;
     padding: 46px 273px;
-    /* border: 1px solid red; */
+   
 }
 .letsTalkChild{
     height: 28px;
     width: 972px;
-    /* border: 1px solid red; */
-
+   
 }
 .letsTalkChild2{
      font-size: 24px;
@@ -27,12 +26,12 @@ body
 .leftdiv{
     height: 446px;
     width: 501px;
-    /* border: 2px solid red; */
+    
 }
 .rightdiv{
     height: 446px;
     width: 501px;
-    /* border: 2px solid red; */
+   
 }
 .h5Parent{
     height: auto;
@@ -64,4 +63,5 @@ body
 .rightimg{
     height:100%;
     width:100%;
-}
+}  
+
